@@ -1,0 +1,7440 @@
+{
+  "Anime": [
+    {
+      "keyword": "pokemon",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hello kitty",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "anime figure",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sh figuarts dragon ball",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nendoroid",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon plush",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "one piece",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hatsune miku",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dragon ball z",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "snoopy",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "monchhichi",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "japan",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sanrio",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sailor moon",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gundam",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "miku",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hatsune miku figure",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dragon ball",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokedoll",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "my orders status",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vintage sanrio",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jujutsu kaisen",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "spongebob animation cel",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "super sonico figure",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hello kitty greeter",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "helluva boss",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "miku figure",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "animation cel",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jojo s bizarre adventure",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "evangelion",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "one piece figure",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chiikawa",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "demon slayer",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "figma",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "garfield",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "super sonico",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "miffy",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hazbin hotel",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hentai",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dragon ball sh figuarts",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sailor moon doll",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "anime",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kasane teto plush",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "monchichi doll",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "beyblade x",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dragon ball figure",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "digimon",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "alien stage",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "my hero academia",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chococat",
+      "rank": 50,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "domo",
+      "rank": 51,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "yokai watch",
+      "rank": 52,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "casio ring watch",
+      "rank": 53,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "monchichi",
+      "rank": 54,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kamen rider",
+      "rank": 55,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hello kitty plush",
+      "rank": 56,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon tomy",
+      "rank": 57,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "digivice",
+      "rank": 58,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kasane teto",
+      "rank": 59,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hololive",
+      "rank": 60,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "garfield plush",
+      "rank": 61,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon figure",
+      "rank": 62,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gloomy bear",
+      "rank": 63,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "naruto",
+      "rank": 64,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sugarbunnies",
+      "rank": 65,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "solo leveling figure",
+      "rank": 66,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chainsaw man",
+      "rank": 67,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nikke",
+      "rank": 68,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mario plush",
+      "rank": 69,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rilakkuma",
+      "rank": 70,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "betty boop",
+      "rank": 71,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "evangelion figure",
+      "rank": 72,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "next innovation japan",
+      "rank": 73,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pusheen",
+      "rank": 74,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon center",
+      "rank": 75,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "my melody",
+      "rank": 76,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "zenless zone zero",
+      "rank": 77,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mafex",
+      "rank": 78,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "twisted wonderland",
+      "rank": 79,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "anime figure lot",
+      "rank": 80,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gundam card game",
+      "rank": 81,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "doki doki literature club",
+      "rank": 82,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sonny angel",
+      "rank": 83,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "madoka magica figure",
+      "rank": 84,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "zoids",
+      "rank": 85,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "attack on titan",
+      "rank": 86,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "takashi murakami",
+      "rank": 87,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "figure",
+      "rank": 88,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "arcane",
+      "rank": 89,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "death note",
+      "rank": 90,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pikmin",
+      "rank": 91,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kotobukiya bishoujo",
+      "rank": 92,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "neon genesis evangelion",
+      "rank": 93,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "studio ghibli",
+      "rank": 94,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "labubu pop mart",
+      "rank": 95,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mofusand",
+      "rank": 96,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hamtaro",
+      "rank": 97,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chucky doll",
+      "rank": 98,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "moomin",
+      "rank": 99,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "adventure time",
+      "rank": 100,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Car & Bike": [
+    {
+      "keyword": "headlights",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bumper",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "body moldings trims",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "accessories",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "parts",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wheels",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tires",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "seat covers",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "shocks struts assemblies",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "other interior parts accessories",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "engine",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "light bulbs leds",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "radiator",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "headlight assemblies",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "grill",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "headlight",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tail lights",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "exhaust",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "transmission",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "spark plugs",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "alternator",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "floor mats",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "catalytic converter",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bumpers reinforcements",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "front bumper",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "other wheel tire parts",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "radio",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "seats",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fog lights",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "control arms ball joints assemblies",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "grilles",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "steering wheel",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "brake pads",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cold air intake",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fuel pump",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "brake disc rotors",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rims",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rear bumper",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hood",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "switches controls",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "headlight assembly",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "floor mats carpets cargo liners",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "trim",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "power steering pump",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fuel injectors",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fenders",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "coilovers",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tail light assemblies",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "brakes and rotors",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "water pump",
+      "rank": 50,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "shocks",
+      "rank": 51,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "led headlight",
+      "rank": 52,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "engines",
+      "rank": 53,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "parts accessories",
+      "rank": 54,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "suspension kit",
+      "rank": 55,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mirror assemblies",
+      "rank": 56,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "key fob",
+      "rank": 57,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "body kits",
+      "rank": 58,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "exhaust system kits",
+      "rank": 59,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "radiators",
+      "rank": 60,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "starter",
+      "rank": 61,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ignition coils",
+      "rank": 62,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "oil filter",
+      "rank": 63,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "struts",
+      "rank": 64,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "spoilers wings",
+      "rank": 65,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "side mirror",
+      "rank": 66,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "exhaust systems",
+      "rank": 67,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "automatic transmission parts",
+      "rank": 68,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "body kit",
+      "rank": 69,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "air intake fuel sensors",
+      "rank": 70,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "automatic transmission",
+      "rank": 71,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "spoiler",
+      "rank": 72,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "turbo kit",
+      "rank": 73,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "other exterior parts accessories",
+      "rank": 74,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bumper cover",
+      "rank": 75,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ac compressor",
+      "rank": 76,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "catalytic converters",
+      "rank": 77,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wheel bearings hubs seals",
+      "rank": 78,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender",
+      "rank": 79,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "truck bed accessories",
+      "rank": 80,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ignition coil",
+      "rank": 81,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wheels rims",
+      "rank": 82,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mirror",
+      "rank": 83,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wheel bearing",
+      "rank": 84,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "grille",
+      "rank": 85,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lift kit",
+      "rank": 86,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "throttle body",
+      "rank": 87,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "air filter",
+      "rank": 88,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lip",
+      "rank": 89,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lower control arm",
+      "rank": 90,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fuel pumps sending units",
+      "rank": 91,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "intake manifold",
+      "rank": 92,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "remote entry system kits",
+      "rank": 93,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bumper inserts covers",
+      "rank": 94,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "turbo",
+      "rank": 95,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "center console",
+      "rank": 96,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rack and pinion",
+      "rank": 97,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "other air fuel delivery",
+      "rank": 98,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "car accessories",
+      "rank": 99,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fog light assemblies",
+      "rank": 100,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Records & CDs": [
+    {
+      "keyword": "stay vinyl records",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vinyl",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "beatles",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lover live from paris",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "taylor swift vinyl",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "led zeppelin vinyl",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "taylor swift",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "records",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "elvis presley",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pink floyd vinyl",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vinyl records lot",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "beatles vinyl",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kiss",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "metallica",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rolling stones",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lp",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pink floyd",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chromakopia vinyl",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lana del rey vinyl",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bob dylan",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "led zeppelin",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "garage",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "blue note",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "psych",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "metallica vinyl",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "melanie martinez",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lana del rey",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "westside gunn vinyl",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "madonna",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "black sabbath vinyl",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "grateful dead vinyl",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "alice in chains vinyl",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kiss vinyl",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lot",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "depeche mode",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "misfits",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "billie eilish vinyl",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "iron maiden",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "velvet underground",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "45 rpm records",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mac miller vinyl",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kendrick lamar vinyl",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lady gaga signed",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "the weeknd vinyl",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "michael jackson",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bob dylan vinyl",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "marilyn manson vinyl",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "iron maiden vinyl",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "elvis",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vinyl record",
+      "rank": 50,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nirvana vinyl",
+      "rank": 51,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sabrina carpenter signed",
+      "rank": 52,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "blue note lp",
+      "rank": 53,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "apple 2",
+      "rank": 54,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lady gaga vinyl",
+      "rank": 55,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ozzy osbourne vinyl",
+      "rank": 56,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kbd",
+      "rank": 57,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "frank ocean vinyl",
+      "rank": 58,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "punk",
+      "rank": 59,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "grateful dead",
+      "rank": 60,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "the cure",
+      "rank": 61,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nirvana",
+      "rank": 62,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mfsl",
+      "rank": 63,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sabrina carpenter",
+      "rank": 64,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "acetate",
+      "rank": 65,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kanye west vinyl",
+      "rank": 66,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "billie eilish",
+      "rank": 67,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rockabilly",
+      "rank": 68,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sealed",
+      "rank": 69,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lady gaga",
+      "rank": 70,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pearl jam",
+      "rank": 71,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ween vinyl",
+      "rank": 72,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "monkees",
+      "rank": 73,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lover live from paris vinyl",
+      "rank": 74,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "elvis presley vinyl",
+      "rank": 75,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "the weeknd",
+      "rank": 76,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "megadeth vinyl",
+      "rank": 77,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "twenty one pilots",
+      "rank": 78,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lady gaga signed vinyl",
+      "rank": 79,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tyler the creator vinyl",
+      "rank": 80,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sabrina carpenter vinyl",
+      "rank": 81,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bad bunny vinyl",
+      "rank": 82,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chappell roan vinyl",
+      "rank": 83,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "misfits vinyl",
+      "rank": 84,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "the beatles vinyl",
+      "rank": 85,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lynyrd skynyrd",
+      "rank": 86,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "van halen vinyl",
+      "rank": 87,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "the cure vinyl",
+      "rank": 88,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "psych lp",
+      "rank": 89,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "madonna vinyl",
+      "rank": 90,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "smashing pumpkins vinyl",
+      "rank": 91,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "michael jackson vinyl",
+      "rank": 92,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mfsl vinyl",
+      "rank": 93,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jimi hendrix",
+      "rank": 94,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "beatles white album vinyl",
+      "rank": 95,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nine inch nails",
+      "rank": 96,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "78 rpm",
+      "rank": 97,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "records lps vinyl",
+      "rank": 98,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "the smiths vinyl",
+      "rank": 99,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "black sabbath",
+      "rank": 100,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Consumer Electronics & PCs": [
+    {
+      "keyword": "ipod",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "meta quest 3",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ipod classic",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cd player",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bluetooth speaker",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tv",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jbl bluetooth speaker",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "headphones",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "oculus quest 2",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cb radio",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "crt tv",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "speakers",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "apple vision pro",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ham radio",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "subwoofer",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ipod nano",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dash cam",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "quest 3",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "meta quest 2",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vhs player",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "record player",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sony walkman",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jbl",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sony wh 1000 xm 5",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "projector",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "beats",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cassette player",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bose quietcomfort ultra",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ipod touch",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "beats studio 3 wireless",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sonos",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mcintosh",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "beats studio pro",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mp 3 player",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "heathkit",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bose",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "apple tv 4 k",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "apple tv",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "turntable",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dvd player",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "quest 2",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fire stick",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "marantz receiver",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "amazon",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vcr",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "linear amplifier",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vcr player",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ipod touch 7 th generation",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "marantz",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tube amplifier",
+      "rank": 50,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "airpods pro 2",
+      "rank": 51,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "alexa",
+      "rank": 52,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jbl charge 5",
+      "rank": 53,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "oculus quest 3",
+      "rank": 54,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pioneer car stereo",
+      "rank": 55,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sony wh 1000 xm 4",
+      "rank": 56,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "airpods max",
+      "rank": 57,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "walkman",
+      "rank": 58,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "klipsch speakers",
+      "rank": 59,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cassette deck",
+      "rank": 60,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "schiit",
+      "rank": 61,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "motorola apx",
+      "rank": 62,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "12 inch subwoofers",
+      "rank": 63,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "airpods pro",
+      "rank": 64,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sound bar",
+      "rank": 65,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jbl flip 6",
+      "rank": 66,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "amplifier",
+      "rank": 67,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jbl partybox",
+      "rank": 68,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "smart tv",
+      "rank": 69,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jbl boombox 3",
+      "rank": 70,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bang olufsen",
+      "rank": 71,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bose bluetooth speaker",
+      "rank": 72,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "airpods",
+      "rank": 73,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mcintosh amplifier",
+      "rank": 74,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "security camera",
+      "rank": 75,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "car stereo",
+      "rank": 76,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "technics turntable",
+      "rank": 77,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "stereo receiver",
+      "rank": 78,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vintage receiver",
+      "rank": 79,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "double din car stereo",
+      "rank": 80,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "camera security",
+      "rank": 81,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "spy camera",
+      "rank": 82,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vr headset",
+      "rank": 83,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bose headphones",
+      "rank": 84,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bose speakers",
+      "rank": 85,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "valve index",
+      "rank": 86,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ipod shuffle",
+      "rank": 87,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vintage speakers",
+      "rank": 88,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mystery boxes",
+      "rank": 89,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "portable dvd player",
+      "rank": 90,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "6.5 car speakers",
+      "rank": 91,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "crt",
+      "rank": 92,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "beats solo 4",
+      "rank": 93,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jl audio",
+      "rank": 94,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "skullcandy headphones",
+      "rank": 95,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "minidisc",
+      "rank": 96,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "garmin gps",
+      "rank": 97,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "boombox",
+      "rank": 98,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "radar detectors",
+      "rank": 99,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "laserdisc player",
+      "rank": 100,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Musical Instruments": [
+    {
+      "keyword": "guitar",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "electric guitar",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender stratocaster",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bass guitar",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "acoustic guitar",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gibson les paul",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gibson",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender telecaster",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guitar pedal",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "telecaster body",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "telecaster",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gibson sg",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "firefly guitar",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bass",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ibanez",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "charvel",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "martin acoustic guitar",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "martin guitar",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guitar body",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "epiphone les paul",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mjt",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mjt body",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guitar amp",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "telecaster neck",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "left handed guitar",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "les paul guitar",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "classical guitar",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gibson guitar",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jackson guitar",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ibanez electric guitar",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guitar neck",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guitars",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "warmoth",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rickenbacker bass",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "les paul",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gibson les paul custom",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guitar strap",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gibson les paul standard",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gibson acoustic guitar",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rickenbacker",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "effects pedals",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kramer guitar",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "stratocaster",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender bass",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender guitar",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "taylor guitar",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "stratocaster body",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guitar pick",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gretsch guitar",
+      "rank": 50,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender jaguar",
+      "rank": 51,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bc rich",
+      "rank": 52,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "boss pedal",
+      "rank": 53,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "broken guitar",
+      "rank": 54,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mesa boogie",
+      "rank": 55,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vintage guitar",
+      "rank": 56,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pedal steel guitar",
+      "rank": 57,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "prs guitar",
+      "rank": 58,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gibson explorer",
+      "rank": 59,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bass guitar 4 string",
+      "rank": 60,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guitar amplifier",
+      "rank": 61,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "charvel guitar",
+      "rank": 62,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kramer",
+      "rank": 63,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "esp guitar",
+      "rank": 64,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "explorer guitar",
+      "rank": 65,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "prs",
+      "rank": 66,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guitar project",
+      "rank": 67,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bass amp",
+      "rank": 68,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jazzmaster",
+      "rank": 69,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender jazz bass",
+      "rank": 70,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "carvin",
+      "rank": 71,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guild",
+      "rank": 72,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "evh",
+      "rank": 73,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "epiphone",
+      "rank": 74,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "stratocaster neck",
+      "rank": 75,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tube amplifier",
+      "rank": 76,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "esp",
+      "rank": 77,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender custom shop",
+      "rank": 78,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "guitar stand",
+      "rank": 79,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "electric guitars",
+      "rank": 80,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gretsch",
+      "rank": 81,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "telecaster guitar",
+      "rank": 82,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "seymour duncan",
+      "rank": 83,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "musical instruments",
+      "rank": 84,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender mustang",
+      "rank": 85,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gibson j 45",
+      "rank": 86,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bass body",
+      "rank": 87,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender jazzmaster",
+      "rank": 88,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "acoustic electric guitar",
+      "rank": 89,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fender precision bass",
+      "rank": 90,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "parlor guitar",
+      "rank": 91,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gibson flying v",
+      "rank": 92,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "marshall amp",
+      "rank": 93,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "strat body",
+      "rank": 94,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "project guitar",
+      "rank": 95,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jazzmaster body",
+      "rank": 96,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "martin d 28",
+      "rank": 97,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chibson",
+      "rank": 98,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "takamine",
+      "rank": 99,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "earthquaker devices",
+      "rank": 100,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Health & Beauty": [
+    {
+      "keyword": "dyson airwrap",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dyson hair dryer",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "minoxidil",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "protein powder",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "magnesium glycinate",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dyson",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "creatine monohydrate",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nutrafol women",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "shark flex style",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nad supplement",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sol de janeiro",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hair dryer",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "summer fridays lip balm",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pre workout",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nad",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "estee lauder",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wig",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "shampoo",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wigs for women",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "batana oil",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dyson air straight",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "human hair wigs",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dyson supersonic hair dryer",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "creatine",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gamersupps",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vitamin c",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "blue chew for men",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "glow recipe",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "prevagen extra strength",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "skin care",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gamersupps waifu cup",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "spartan shampoo",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "whey protein",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "berberine",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "collagen peptides powder",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "drunk elephant",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "protein bars",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "methylene blue",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "moroccan oil",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nutrafol for men",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cerave moisturizing cream",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "omega 3",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wigs",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "la roche posay",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mary kay",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nitric oxide",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "liquid iv",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "olaplex",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "magnesium citrate",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "la mer",
+      "rank": 50,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "minoxidil kirkland",
+      "rank": 51,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tatcha",
+      "rank": 52,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ag 1",
+      "rank": 53,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "raquel welch wig",
+      "rank": 54,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vitafer",
+      "rank": 55,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kerastase",
+      "rank": 56,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "prime hydration",
+      "rank": 57,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "derma roller",
+      "rank": 58,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vitamin d",
+      "rank": 59,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "estee lauder advanced night repair",
+      "rank": 60,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ag 1 athletic greens",
+      "rank": 61,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "skin tag remover",
+      "rank": 62,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "resveratrol",
+      "rank": 63,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "omega xl",
+      "rank": 64,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "omega 3 fish oil",
+      "rank": 65,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nutrafol",
+      "rank": 66,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "summer fridays",
+      "rank": 67,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "magnesium",
+      "rank": 68,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rhode lip tint",
+      "rank": 69,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "testosterone",
+      "rank": 70,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "truly",
+      "rank": 71,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "honey pack men",
+      "rank": 72,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "castor oil",
+      "rank": 73,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "shampoo and conditioner",
+      "rank": 74,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "clinique moisture surge",
+      "rank": 75,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "k 18",
+      "rank": 76,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "medicube",
+      "rank": 77,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "saw palmetto",
+      "rank": 78,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wow hair products",
+      "rank": 79,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hair extensions",
+      "rank": 80,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "neutrogena hydro boost",
+      "rank": 81,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dyson airstrait",
+      "rank": 82,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "neuro gum",
+      "rank": 83,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ashwagandha",
+      "rank": 84,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hair",
+      "rank": 85,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "clarins double serum",
+      "rank": 86,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tretinoin",
+      "rank": 87,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lip balm",
+      "rank": 88,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "collagen",
+      "rank": 89,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "robux",
+      "rank": 90,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "herbalife",
+      "rank": 91,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cerave",
+      "rank": 92,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "plexaderm rapid reduction serum",
+      "rank": 93,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hair growth oil",
+      "rank": 94,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lancome",
+      "rank": 95,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "peter thomas roth",
+      "rank": 96,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vaseline",
+      "rank": 97,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "clinique",
+      "rank": 98,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "coq 10",
+      "rank": 99,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nmn",
+      "rank": 100,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Trading Cards & Action Figures": [
+    {
+      "keyword": "pokemon",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon cards",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "prismatic evolutions",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon psa 10",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "charizard",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "psa 10 pokemon",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "psa 10",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "charizard ex 151",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "psa",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "umbreon vmax alt art",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "graded pokemon cards",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon 151",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon psa",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon card",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "umbreon",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon prismatic evolutions",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mtg",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "yugioh",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "charizard psa 10",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gengar vmax alt art",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "magic the gathering",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "charizard ex",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "giratina v alt art",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bubble mew",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gengar",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "umbreon ex",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pikachu",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ancient mew",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon illustration rare",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "psa pokemon",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lugia v alt art",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "drowzee 210 198",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "crown zenith",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rayquaza vmax alt art",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "umbreon prismatic evolutions",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "prismatic evolutions etb",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pikachu van gogh",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "surging sparks",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "one piece tcg",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "charmander 044 promo",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "umbreon vmax alt art psa 10",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "base set charizard",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "blastoise ex 151",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "umbreon psa 10",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "prismatic evolutions umbreon",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "greninja ex 214",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "blue eyes white dragon",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pokemon tcg",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "charizard base set",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Bags & Accessories": [
+    {
+      "keyword": "louis vuitton handbags",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "louis vuitton",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chanel bag",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "coach handbags",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gucci bag",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "coach",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chanel",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gucci",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dooney bourke handbags",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dior bag",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "coach bag",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "michael kors handbag",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fendi bag",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "prada bag",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vintage coach bag",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tory burch handbag",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ysl handbag",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kate spade handbag",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "miu miu bag",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "coach purse",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "celine bag",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bottega veneta",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dior",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "louis vuitton bag",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hermes",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "juicy couture bag",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fendi baguette",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "balenciaga city bag",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "portland leather goods",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "designer handbags",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "louis vuitton crossbody",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "goyard bag",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vera bradley",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "harveys seatbelt",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chloe bag",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "louis vuitton speedy 30",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "marc jacobs",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "brand street tokyo",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gucci crossbody bag",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lv handbag",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "baggu",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "balenciaga bag",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "louis vuitton speedy",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "louis vuitton murakami",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "coach shoulder bag",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "handbags women",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "patricia nash handbag",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "loewe bag",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "prada handbag",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Video Games": [
+    {
+      "keyword": "nintendo switch",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ps 5",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "xbox series x",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ps 5 console",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "playstation 5",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "steam deck",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "xbox series s",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "psp",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "3 ds",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ps vita",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "xbox 360",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ps 4",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nintendo 3 ds",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gameboy advance sp",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nintendo switch oled",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "3 ds xl",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nintendo ds",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wii console",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gameboy advance",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nintendo 64",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "xbox",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "xbox one",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "new 3 ds xl",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ps 2",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "playstation 4",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gameboy",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ps 3 console",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gameboy color",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nintendo",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ps 2 console",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nintendo switch lite",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "playstation 2",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wii u",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "steam deck oled",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "psp 3000",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "wii",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ps 5 pro",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nintendo 3 ds xl",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ps 3",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gamecube",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "gamecube console",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "new nintendo 3 ds xl",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "playstation 3",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ds lite",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "super nintendo console",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "new 3 ds",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "2 ds",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "switch lite",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "xbox one x",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "xbox 360 console",
+      "rank": 50,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Home & Kitchen / DIY": [
+    {
+      "keyword": "milwaukee",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "milwaukee tools",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dewalt",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dewalt 20 v battery",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "milwaukee m 18 battery",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kitchenaid mixer",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "festool",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "chainsaw",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "stanley 40 oz tumbler",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "stihl chainsaw",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mackenzie childs",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "klein tools",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vacuum cleaner",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "espresso machine",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "milwaukee packout",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pressure washer",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "husqvarna chainsaw",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "air fryer",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "desk",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ninja slushi",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ryze mushroom coffee",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "coffee maker",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dewalt 20 v tools",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ryobi",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "led lights",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "makita",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tools",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "stanley",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tool box",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nepenthes",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "milwaukee m 12",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "solar lights outdoor",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "le creuset",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "yeti",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "solar panel",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lamp",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ecoflow",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nora fleming",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mini fridge",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dyson vacuum cleaner",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pottery barn",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "knipex",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tv stand",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dewalt tools",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "coffee table",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ring doorbell",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "generator",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rug",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "air compressor",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "knife sharpener",
+      "rank": 50,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tool set",
+      "rank": 51,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "brumate",
+      "rank": 52,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Men's Sneakers": [
+    {
+      "keyword": "jordan 4",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jordan",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "new balance",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nike",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "adidas shoes",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kobe",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jordan 1",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "new balance 9060",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jordan 11",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "on cloud shoes men",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nike air max",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "adidas",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jordan 3",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "yeezy",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "travis scott jordan 1",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nike shoes",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jordan retro",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jordan 5",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nike air force 1",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "shoes men",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nike sb",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nike sb dunk",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nike sb dunk low",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "travis scott",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nike dunk low",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hoka shoes mens",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jordans",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kobe 6",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "air force 1",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "puma mens shoes",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "air jordan",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jordan 1 low",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "yeezy boost 350 v 2",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "foamposite",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mens shoes",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "new balance 990",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nike dunk",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "yeezy slide",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vans",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "asics mens shoes",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "basketball shoes",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "air max 1",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "asics",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "new balance 574",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kobe shoes",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "balenciaga track",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nike air max 90",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "air max 90",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "new balance 2002 r",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jordan 5 metallic",
+      "rank": 50,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Entertainment Goods": [
+    {
+      "keyword": "kiss memorabilia",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "taylor swift",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "insane clown posse",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pearl jam poster",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kiss aucoin",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "beatles",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kiss",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "beatles memorabilia",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "stray kids",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tool poster",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "riaa",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bts",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "phish",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "grateful dead",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "selena quintanilla",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "elvis presley",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "icp",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "iron maiden",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "michael jackson",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "metallica poster",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pearl jam",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "slipknot mask",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "elvis presley memorabilia",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kiss poster",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "riaa award",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "britney spears",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "metallica",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "melanie martinez",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "my chemical romance",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ateez",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "aespa",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "twenty one pilots",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "icp jersey",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "one direction",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "elvis",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "twice",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "official site",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "madonna",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "blink 182",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "poster",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "marilyn manson",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "billy strings poster",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "loona",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "billy strings",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "spice girls",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "van halen",
+      "rank": 46,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "led zeppelin",
+      "rank": 47,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "motley crue",
+      "rank": 48,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "misfits",
+      "rank": 49,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Cameras & Photography": [
+    {
+      "keyword": "leica",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nikon",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hasselblad",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lens",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sony e mount lens",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pentax",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "fujifilm",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "canon lens",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sigma 18 50 mm f 2.8 sony",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nikon lens",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "canon",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "camera",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "canon ef lens",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "helios 44 2",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "angenieux",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nikon z",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "canon rf lens",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sony lens",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "contax",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sigma 24 70 2.8 sony",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tamron 17 70 mm f 2.8 sony",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "canon 70 200 2.8",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "camera lens",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "canon fd lens",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "m 42 lens",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sigma 18 35 mm f 1.8 canon",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sony 24 70 f 2.8 gm ii",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "voigtlander",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "leitz",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "nikon z lens",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "minolta",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ef lens",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rolleiflex",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mamiya",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "arri",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tamron 28 75 sony",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "large format lens",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "dallmeyer",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cine lens",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sigma 150 600 mm canon",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "brass lens",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "zeiss",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "canon lenses",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "arriflex",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Jewelry & Watches": [
+    {
+      "keyword": "rolex",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rolex mens watch",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "watch",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "omega seamaster",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "seiko",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "omega",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mens watches",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "watch men",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tag heuer",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "omega watch",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rolex submariner",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cartier watch",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "grand seiko",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vintage watch",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "omega speedmaster",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "pocket watch",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "seiko watch",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "hamilton watch",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "patek philippe",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tissot mens watch",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rolex daytona",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "breitling watch",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "rolex datejust",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tudor watch",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "citizen watch men",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bulova mens watch",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "casio watch men",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "longines watch",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tudor",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "watch lot",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mens watch",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "christopher ward",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tissot",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "longines",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tag heuer formula 1",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "g shock watches men",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "casio",
+      "rank": 37,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "breitling",
+      "rank": 38,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "g shock",
+      "rank": 39,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cartier santos",
+      "rank": 40,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "watches",
+      "rank": 41,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "seiko 5",
+      "rank": 42,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "universal geneve",
+      "rank": 43,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "cartier tank",
+      "rank": 44,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tudor black bay",
+      "rank": 45,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Sports Goods": [
+    {
+      "keyword": "scotty cameron putter",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "golf clubs",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "golf bag",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "golf",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "scotty cameron",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "putter",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lab golf putter",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "iron set",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "golf balls",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lab putter",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "odyssey putters",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ping g 430 max driver",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bettinardi putter",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "taylormade iron set",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "golf iron set",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "scotty cameron circle t",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "taylormade driver",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ping putter",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "7 wood",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "vessel golf bag",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "taylormade qi 10 driver",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "golf driver",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "callaway iron set",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mizuno iron set",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "golf club set",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "titleist iron set",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "qi 10 driver",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "tour issue",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mini driver",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ping g 430 max 10 k",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sim 2 max driver",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "taylormade spider putter",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bettinardi",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ping iron set",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ],
+  "Sports Trading Cards": [
+    {
+      "keyword": "jayden daniels",
+      "rank": 1,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "psa 10",
+      "rank": 2,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "psa",
+      "rank": 3,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "victor wembanyama",
+      "rank": 4,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "michael jordan",
+      "rank": 5,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "football cards",
+      "rank": 6,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jayden daniels rookie card",
+      "rank": 7,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "auto",
+      "rank": 8,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jj mccarthy",
+      "rank": 9,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "baseball cards",
+      "rank": 10,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "caitlin clark",
+      "rank": 11,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "shohei ohtani",
+      "rank": 12,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kobe bryant",
+      "rank": 13,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "paul skenes",
+      "rank": 14,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "caleb williams",
+      "rank": 15,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "shai gilgeous alexander",
+      "rank": 16,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "elly de la cruz",
+      "rank": 17,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bo nix",
+      "rank": 18,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "drake maye",
+      "rank": 19,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "mickey mantle",
+      "rank": 20,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ken griffey jr",
+      "rank": 21,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "patrick mahomes rookie card",
+      "rank": 22,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lot",
+      "rank": 23,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "luka doncic",
+      "rank": 24,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "anthony edwards",
+      "rank": 25,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "lebron james",
+      "rank": 26,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kaboom",
+      "rank": 27,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "kobe bryant auto",
+      "rank": 28,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "sports cards",
+      "rank": 29,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jayden daniels auto",
+      "rank": 30,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "michael jordan auto",
+      "rank": 31,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "bobby witt jr",
+      "rank": 32,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jayden daniels downtown",
+      "rank": 33,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "jayden daniels prizm",
+      "rank": 34,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "ufc",
+      "rank": 35,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    },
+    {
+      "keyword": "national treasures",
+      "rank": 36,
+      "search_trend": 0,
+      "sold_trend": 0,
+      "estimated_sell_through": 0
+    }
+  ]
+}
