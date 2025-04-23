@@ -7,7 +7,7 @@ import requests
 import json
 
 # Hardcoded eBay App ID
-EBAY_APP_ID = "hairilyu-spyselle-PRD-625542f2e-3c68b449"
+EBAY_APP_ID = ""
 
 st.set_page_config(page_title="Spy Keyword Ranker", layout="wide")
 st.title("🕵️ Spy Keyword Ranker: Live eBay Keyword Search")
